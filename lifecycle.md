@@ -1,7 +1,7 @@
 - # CISSP Glossary
 
-Lifecycle หมายถึง
-  Lifecycle หรือ วงจรชีวิต ในบริบทต่างๆ หมายถึง ขั้นตอนต่างๆ ที่สิ่งหนึ่งสิ่งใดผ่านตั้งแต่เริ่มต้นจนสิ้นสุด โดยแต่ละขั้นตอนจะมีลักษณะและความสำคัญแตกต่างกันออกไป
+- Lifecycle
+    Phases that an asset goes through from creation to destruction.
 
 - ChatGPT
 
@@ -27,9 +27,7 @@ Lifecycle หมายถึง
 
 - ## 2nd Source (NIST Glossary)
 
-ความหมาย คือ
-
-การวิวัฒนาการของระบบ ผลิตภัณฑ์ บริการ โครงการ หรือสิ่งประดิษฐ์อื่นๆ ที่มนุษย์สร้างขึ้น ตั้งแต่เริ่มต้นจนถึงการเลิกใช้งาน
+Evolution of a system, product, service, project or other human-made entity from conception through retirement.
 
 - Chatgpt
 
