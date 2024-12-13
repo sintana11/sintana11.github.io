@@ -27,7 +27,7 @@
 
 - ## 2nd Source (NIST Glossary)
 
-Evolution of a system, product, service, project or other human-made entity from conception through retirement.
+- Evolution of a system, product, service, project or other human-made entity from conception through retirement.
 
 - Chatgpt
 
