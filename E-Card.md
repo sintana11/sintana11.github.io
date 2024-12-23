@@ -1,6 +1,6 @@
 # 🎄 Merry Christmas and Happy New Year! 🎉
 
-![Christmas Greeting Card](https://example.com/christmas-card.jpg) <!-- ใส่ URL รูปภาพของการ์ด -->
+![Christmas Greeting Card](Images/E-Card.png) <!-- ใส่ URL รูปภาพของการ์ด -->
 
 ---
 
