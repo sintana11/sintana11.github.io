@@ -12,3 +12,8 @@
 ---
 
 **Wishing you a magical holiday season!**
+
+เครื่องมือที่ให้  
+Encode & Decode = https://stylesuxx.github.io/steganography/
+
+ออกแบบภาพ = Canva
