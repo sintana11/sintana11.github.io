@@ -3,7 +3,7 @@
 ---
 
 ## **Definition**  
-Data Completeness refers to the degree to which all required data is present and accounted for within a dataset. It ensures that no critical information is missing, making the data ready for analysis or decision-making processes.  
+Data completeness is an important aspect of Data Quality. Data Quality is a reference to how accurate and reliable the data is overall. Data completeness specifically focuses on missing data or how complete the data is, rather than concerns of inaccurate or duplicated data. A lack of data completeness is normally the result of information that was never collected. For example, if a customer’s name and email address are supposed to be collected, but the email address is missing, it is difficult to communicate with the customer.
 
 ---
 
@@ -23,15 +23,15 @@ Data Completeness refers to the degree to which all required data is present and
 ---
 
 ## **My Summary**  
-ความสมบูรณ์ของข้อมูลเป็นมิติที่สำคัญของคุณภาพข้อมูล โดยมุ่งเน้นไปที่การมีข้อมูลทุกจุดที่จำเป็น ข้อมูลที่ไม่สมบูรณ์อาจนำไปสู่การวิเคราะห์ผิดพลาดหรือการตัดสินใจที่คลาดเคลื่อน ทำให้การตรวจสอบและตรวจจับข้อผิดพลาดอย่างละเอียดเป็นสิ่งสำคัญ เพื่อให้แน่ใจว่าข้อมูลทุกส่วนที่จำเป็นได้รับการบันทึกครบถ้วน  
+ความสมบูรณ์ของข้อมูลเป็นส่วนสำคัญของคุณภาพข้อมูล โดยมุ่งเน้นที่การมีข้อมูลครบถ้วนและไม่มีข้อมูลที่ขาดหาย การขาดความสมบูรณ์ของข้อมูลมักเกิดจากการไม่เก็บรวบรวมข้อมูลที่จำเป็น ซึ่งอาจส่งผลให้เกิดปัญหาในการสื่อสารหรือการตัดสินใจที่ไม่ถูกต้อง  
 
 ---
 
 ## **Sample**  
 **ตัวอย่างที่ 1:**  
-ฐานข้อมูลลูกค้าประกอบด้วยฟิลด์ `ชื่อ`, `อีเมล`, `เบอร์โทรศัพท์` และ `ที่อยู่` ความสมบูรณ์ของข้อมูลหมายความว่าฟิลด์ทั้งหมดนี้ต้องมีค่า และไม่มีช่องว่างในแต่ละระเบียน  
+หากในฐานข้อมูลลูกค้า มีการเก็บชื่อและที่อยู่อีเมล แต่ขาดที่อยู่อีเมล จะทำให้ไม่สามารถติดต่อสื่อสารกับลูกค้าผ่านอีเมลได้  
 
 **ตัวอย่างที่ 2:**  
-ในฐานข้อมูลการขาย ความสมบูรณ์หมายถึงการที่ทุกการขายมีบันทึกที่ครอบคลุม เช่น `ชื่อสินค้า`, `ราคา`, `วันที่`, และ `รหัสลูกค้า` หากขาดฟิลด์ใดฟิลด์หนึ่ง ชุดข้อมูลจะถือว่าไม่สมบูรณ์  
+ในกรณีที่ต้องประเมินมูลค่าทรัพย์สิน หากไม่มีข้อมูลขนาดพื้นที่ จะทำให้การประเมินมูลค่าไม่แม่นยำและอาจเกิดความผิดพลาดได้  
 
 ---
