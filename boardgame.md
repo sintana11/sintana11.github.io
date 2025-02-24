@@ -33,7 +33,7 @@
 
 **Activity Video** 🎥
 
-[![pic4](image/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
+[![pic4](Images/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
 
 
 **Group 🤼** 
