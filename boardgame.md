@@ -25,11 +25,11 @@
 **Activity Pictures 🖼️**  
 
 
-![pic1](image/bg1.png)
+![pic1](Images/bg1.png)
 
-![pic2](image/bg2.png)
+![pic2](Images/bg2.png)
 
-![pic3](image/bg3.png)
+![pic3](Images/bg3.png)
 
 **Activity Video** 🎥
 
